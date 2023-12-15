@@ -1,0 +1,3 @@
+[submodule "react-client"]
+	path = react-client
+	url = https://github.com/gokuldevp/Habit-Tracker-Client.git
